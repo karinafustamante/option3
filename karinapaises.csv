@@ -20,15 +20,15 @@
 234,Africa,COG,Congo,2017,58.63,Safely managed drinking water sources of urban  represented by Proportion of population with access
 235,Africa,COG,Congo,2017,19.06,Safely managed drinking water sources of rural  represented by Proportion of population with access
 236,Africa,COG,Congo,2017,45.35,Safely managed drinking water sources of total  represented by Proportion of population with access
-246,Africa,CIV,Côte d’Ivoire,2005,56.65,Safely managed drinking water sources of urban  represented by Proportion of population with access
-247,Africa,CIV,Côte d’Ivoire,2005,16.42,Safely managed drinking water sources of rural  represented by Proportion of population with access
-248,Africa,CIV,Côte d’Ivoire,2005,34.62,Safely managed drinking water sources of total  represented by Proportion of population with access
-249,Africa,CIV,Côte d’Ivoire,2010,56.02,Safely managed drinking water sources of urban  represented by Proportion of population with access
-250,Africa,CIV,Côte d’Ivoire,2010,16.97,Safely managed drinking water sources of rural  represented by Proportion of population with access
-251,Africa,CIV,Côte d’Ivoire,2010,35.45,Safely managed drinking water sources of total  represented by Proportion of population with access
-252,Africa,CIV,Côte d’Ivoire,2017,55.15,Safely managed drinking water sources of urban  represented by Proportion of population with access
-253,Africa,CIV,Côte d’Ivoire,2017,17.71,Safely managed drinking water sources of rural  represented by Proportion of population with access
-254,Africa,CIV,Côte d’Ivoire,2017,36.55,Safely managed drinking water sources of total  represented by Proportion of population with access
+246,Africa,CIV,Costa de Marfil,2005,56.65,Safely managed drinking water sources of urban  represented by Proportion of population with access
+247,Africa,CIV,Costa de Marfil,2005,16.42,Safely managed drinking water sources of rural  represented by Proportion of population with access
+248,Africa,CIV,Costa de Marfil,2005,34.62,Safely managed drinking water sources of total  represented by Proportion of population with access
+249,Africa,CIV,Costa de Marfil,2010,56.02,Safely managed drinking water sources of urban  represented by Proportion of population with access
+250,Africa,CIV,Costa de Marfil,2010,16.97,Safely managed drinking water sources of rural  represented by Proportion of population with access
+251,Africa,CIV,Costa de Marfil,2010,35.45,Safely managed drinking water sources of total  represented by Proportion of population with access
+252,Africa,CIV,Costa de Marfil,2017,55.15,Safely managed drinking water sources of urban  represented by Proportion of population with access
+253,Africa,CIV,Costa de Marfil,2017,17.71,Safely managed drinking water sources of rural  represented by Proportion of population with access
+254,Africa,CIV,Costa de Marfil,2017,36.55,Safely managed drinking water sources of total  represented by Proportion of population with access
 309,Africa,DJI,Djibouti,2005,31.2,Safely managed sanitation facilities of urban  represented by Proportion of population with access
 310,Africa,DJI,Djibouti,2005,12.18,Safely managed sanitation facilities of rural  represented by Proportion of population with access
 311,Africa,DJI,Djibouti,2005,26.78,Safely managed sanitation facilities of total  represented by Proportion of population with access
@@ -133,9 +133,6 @@
 817,Africa,NGA,Nigeria,2017,29.5,Safely managed sanitation facilities of urban  represented by Proportion of population with access
 818,Africa,NGA,Nigeria,2017,23.86,Safely managed sanitation facilities of rural  represented by Proportion of population with access
 819,Africa,NGA,Nigeria,2017,26.65,Safely managed sanitation facilities of total  represented by Proportion of population with access
-934,Africa,REU,Réunion,2005,95.78,Safely managed drinking water sources of total  represented by Proportion of population with access
-935,Africa,REU,Réunion,2010,95.97,Safely managed drinking water sources of total  represented by Proportion of population with access
-936,Africa,REU,Réunion,2017,96.18,Safely managed drinking water sources of total  represented by Proportion of population with access
 955,Africa,RWA,Rwanda,2005,29.68,Safely managed drinking water sources of urban  represented by Proportion of population with access
 956,Africa,RWA,Rwanda,2010,35.24,Safely managed drinking water sources of urban  represented by Proportion of population with access
 957,Africa,RWA,Rwanda,2017,43.45,Safely managed drinking water sources of urban  represented by Proportion of population with access
@@ -190,18 +187,18 @@
 1164,Africa,UGA,Uganda,2017,15.7,Safely managed drinking water sources of urban  represented by Proportion of population with access
 1165,Africa,UGA,Uganda,2017,4.46,Safely managed drinking water sources of rural  represented by Proportion of population with access
 1166,Africa,UGA,Uganda,2017,7.07,Safely managed drinking water sources of total  represented by Proportion of population with access
-1191,Africa,TZA,United Rep. of Tanzania,2005,10.34,Safely managed drinking water sources of urban  represented by Proportion of population with access
-1192,Africa,TZA,United Rep. of Tanzania,2005,16.88,Safely managed sanitation facilities of urban  represented by Proportion of population with access
-1193,Africa,TZA,United Rep. of Tanzania,2005,8.76,Safely managed sanitation facilities of rural  represented by Proportion of population with access
-1194,Africa,TZA,United Rep. of Tanzania,2005,10.78,Safely managed sanitation facilities of total  represented by Proportion of population with access
-1195,Africa,TZA,United Rep. of Tanzania,2010,28.04,Safely managed drinking water sources of urban  represented by Proportion of population with access
-1196,Africa,TZA,United Rep. of Tanzania,2010,24.03,Safely managed sanitation facilities of urban  represented by Proportion of population with access
-1197,Africa,TZA,United Rep. of Tanzania,2010,15.02,Safely managed sanitation facilities of rural  represented by Proportion of population with access
-1198,Africa,TZA,United Rep. of Tanzania,2010,17.55,Safely managed sanitation facilities of total  represented by Proportion of population with access
-1199,Africa,TZA,United Rep. of Tanzania,2017,34.96,Safely managed drinking water sources of urban  represented by Proportion of population with access
-1200,Africa,TZA,United Rep. of Tanzania,2017,31.44,Safely managed sanitation facilities of urban  represented by Proportion of population with access
-1201,Africa,TZA,United Rep. of Tanzania,2017,22.39,Safely managed sanitation facilities of rural  represented by Proportion of population with access
-1202,Africa,TZA,United Rep. of Tanzania,2017,25.38,Safely managed sanitation facilities of total  represented by Proportion of population with access
+1191,Africa,TZA,United Republic of Tanzania,2005,10.34,Safely managed drinking water sources of urban  represented by Proportion of population with access
+1192,Africa,TZA,United Republic of Tanzania,2005,16.88,Safely managed sanitation facilities of urban  represented by Proportion of population with access
+1193,Africa,TZA,United Republic of Tanzania,2005,8.76,Safely managed sanitation facilities of rural  represented by Proportion of population with access
+1194,Africa,TZA,United Republic of Tanzania,2005,10.78,Safely managed sanitation facilities of total  represented by Proportion of population with access
+1195,Africa,TZA,United Republic of Tanzania,2010,28.04,Safely managed drinking water sources of urban  represented by Proportion of population with access
+1196,Africa,TZA,United Republic of Tanzania,2010,24.03,Safely managed sanitation facilities of urban  represented by Proportion of population with access
+1197,Africa,TZA,United Republic of Tanzania,2010,15.02,Safely managed sanitation facilities of rural  represented by Proportion of population with access
+1198,Africa,TZA,United Republic of Tanzania,2010,17.55,Safely managed sanitation facilities of total  represented by Proportion of population with access
+1199,Africa,TZA,United Republic of Tanzania,2017,34.96,Safely managed drinking water sources of urban  represented by Proportion of population with access
+1200,Africa,TZA,United Republic of Tanzania,2017,31.44,Safely managed sanitation facilities of urban  represented by Proportion of population with access
+1201,Africa,TZA,United Republic of Tanzania,2017,22.39,Safely managed sanitation facilities of rural  represented by Proportion of population with access
+1202,Africa,TZA,United Republic of Tanzania,2017,25.38,Safely managed sanitation facilities of total  represented by Proportion of population with access
 1236,Africa,ZMB,Zambia,2005,47.79,Safely managed drinking water sources of urban  represented by Proportion of population with access
 1237,Africa,ZMB,Zambia,2010,47.07,Safely managed drinking water sources of urban  represented by Proportion of population with access
 1238,Africa,ZMB,Zambia,2017,46.25,Safely managed drinking water sources of urban  represented by Proportion of population with access
